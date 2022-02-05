@@ -1,0 +1,23 @@
+name: UpdateReadMe-Py
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+
+jobs:
+  build:
+    runs-on: self-hosted
+    steps:
+    - uses: actions/checkout@v2
+    - name: Run Fetcher.
+      run: |
+        python /home/hvdm/RabbitService/READMEWorker.py
+    - name: commit files
+      run: |
+        git add -A
+        git commit -m "update data" -a
+    - name: push changes
+      uses: ad-m/github-push-action@v0.6.0
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: main  
