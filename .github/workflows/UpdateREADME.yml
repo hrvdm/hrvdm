@@ -1,4 +1,4 @@
-name: UpdateReadMe-Py
+name: UpdateReadMeWithPython
 
 on:
   schedule:
