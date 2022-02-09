@@ -1,11 +1,11 @@
 <h1 align="center">Hey, I'm Harvey!</h1>
 <h3 align="center">An Automation enthusiast, Graphic Designer and Cyber Security student based in London, UK.</h3>
 <h4 align="center">What's going on right now?</h4>
-<p align="center">Rack Temperature: 27 Degrees</p>
-<p align="center">Rack Humidity: 36%</p>
-<p align="center">Outside Temperature: 7.19 Degrees</p>
+<p align="center">Rack Temperature: 21 Degrees</p>
+<p align="center">Rack Humidity: 39%</p>
+<p align="center">Outside Temperature: 6.69 Degrees</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hrvdm&label=Profile%20views&color=0e75b6&style=flat" alt="hrvdm" /> </p>
-<p align="center"><sub>Stats updated every hour. Last updated at 2022-02-08 21:22:47</sub></p>>
+<p align="center"><sub>Stats updated every hour. Last updated at 2022-02-09 01:20:13</sub></p>
 <br>
 
 - I'm currently working on [Synchrony](https://github.com/hrvdm/Synchrony)
