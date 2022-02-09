@@ -15,7 +15,7 @@ jobs:
     - name: Commit Files
       run: |
         git add -A
-        git commit -m "😎 Data updated via Action" -a --force
+        git commit -m "😎 Data updated via Action" -a
     - name: push changes
       uses: ad-m/github-push-action@v0.6.0
       with:
