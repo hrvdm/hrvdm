@@ -2,10 +2,10 @@
 <h3 align="center">An Automation enthusiast, Graphic Designer and Cyber Security student based in London, UK.</h3>
 <h4 align="center">What's going on right now?</h4>
 <p align="center">🧮 Rack Temperature: 25 Degrees</p>
-<p align="center">💧 Rack Humidity: 39%</p>
-<p align="center">🌦️ Outside Temperature: 8.19 Degrees</p>
+<p align="center">💧 Rack Humidity: 37%</p>
+<p align="center">🌦️ Outside Temperature: 6.63 Degrees</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hrvdm&label=Profile%20views&color=0e75b6&style=flat" alt="hrvdm" /> </p>
-<p align="center"><sub>Last updated at 2022-02-20 20:04:01</sub></p>
+<p align="center"><sub>Last updated at 2022-02-20 21:04:01</sub></p>
 <br>
 
 <p align="center">You can find more about me on <a href="https://hvdm.io">my website</a></p>
