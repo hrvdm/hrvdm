@@ -3,9 +3,9 @@
 <h4 align="center">What's going on right now?</h4>
 <p align="center">🧮 Rack Temperature: 19 Degrees</p>
 <p align="center">💧 Rack Humidity: 43%</p>
-<p align="center">🌦️ Outside Temperature: 6.38 Degrees</p>
+<p align="center">🌦️ Outside Temperature: 6.13 Degrees</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hrvdm&label=Profile%20views&color=0e75b6&style=flat" alt="hrvdm" /> </p>
-<p align="center"><sub>Last updated at 2022-03-13 21:52:03</sub></p>
+<p align="center"><sub>Last updated at 2022-03-13 22:52:04</sub></p>
 <br>
 
 <p align="center">You can find more about me on <a href="https://hvdm.io">my website</a></p>
