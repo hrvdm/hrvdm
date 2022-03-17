@@ -1,11 +1,11 @@
 <h1 align="center">👋 Hey, I'm Harvey!</h1>
 <h3 align="center">An Automation enthusiast, Graphic Designer and Cyber Security student based in London, UK.</h3>
 <h4 align="center">What's going on right now?</h4>
-<p align="center">🧮 Rack Temperature: 29 Degrees</p>
+<p align="center">🧮 Rack Temperature: 28 Degrees</p>
 <p align="center">💧 Rack Humidity: 39%</p>
-<p align="center">🌦️ Outside Temperature: 2.5 Degrees</p>
+<p align="center">🌦️ Outside Temperature: 3.63 Degrees</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hrvdm&label=Profile%20views&color=0e75b6&style=flat" alt="hrvdm" /> </p>
-<p align="center"><sub>Last updated at 2022-03-17 06:52:33</sub></p>
+<p align="center"><sub>Last updated at 2022-03-17 07:52:34</sub></p>
 <br>
 
 <p align="center">You can find more about me on <a href="https://hvdm.io">my website</a></p>
