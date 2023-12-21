@@ -1,3 +1,5 @@
+![](https://github.com/hrvdm/hrvdm/blob/main/images/winter.png?raw=true)
+
 Hey!
 I'm Harvey.
 
