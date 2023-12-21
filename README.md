@@ -11,8 +11,6 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 December 2021 - To: 20 December 2023
-
 Total Time: 390 hrs 56 mins
 
 TypeScript        176 hrs 13 mins ████████▒░░░░░░░░░░░░░░░░   33.22 %
