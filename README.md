@@ -9,4 +9,15 @@
 <p align="center"><img src="https://img.shields.io/github/repo-size/hrvdm/hrvdm?color=%23DDB&label=SIZE&logo=codesandbox&style=for-the-badge&logoColor=D9E0EE&labelColor=252733" alt="hrvdm" />  <img src="https://komarev.com/ghpvc/?username=hrvdm&label=Views&color=252733&style=for-the-badge" alt="hrvdm" /> </p>
 
 <!--START_SECTION:waka-->
+
+```txt
+Total Time: 390 hrs 56 mins
+
+TypeScript        176 hrs 13 mins ████████▒░░░░░░░░░░░░░░░░   33.22 %
+Other             139 hrs 29 mins ██████▓░░░░░░░░░░░░░░░░░░   26.30 %
+Python            95 hrs 48 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.06 %
+JavaScript        75 hrs 15 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.19 %
+JSON              13 hrs 37 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
+```
+
 <!--END_SECTION:waka-->
