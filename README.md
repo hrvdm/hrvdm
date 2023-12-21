@@ -1,9 +1,10 @@
 ![](https://github.com/hrvdm/hrvdm/blob/main/images/winter.png?raw=true)
 
-Hey!
-I'm Harvey.
-
-I'm up to many things but mostly automation, cybersecurity & software engineering :)
+<div align="center">
+    <h3> Hey, I'm Harvey.</h3>
+    <p><i>coffee, frontend, cybersecurity and general shenanigans</i></p>
+    <p>also i really like unix rice, sushi rice is also good</p>
+</div>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
