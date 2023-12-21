@@ -6,7 +6,7 @@
     <p>i really like unix rice, sushi rice is also good</p>
 </div>
 
-<p align="center"><img src="https://img.shields.io/github/repo-size/hrvdm/hrvdm?color=%23DDB&label=SIZE&logo=codesandbox&style=for-the-badge&logoColor=D9E0EE&labelColor=252733" alt="hrvdm" />  <img src="https://komarev.com/ghpvc/?username=hrvdm&label=Views&color=252733&style=for-the-badge" alt="hrvdm" /> </p>
+<p align="center">  <img src="https://komarev.com/ghpvc/?username=hrvdm&label=Views&color=252733&style=for-the-badge" alt="hrvdm" /> </p>
 
 <!--START_SECTION:waka-->
 
