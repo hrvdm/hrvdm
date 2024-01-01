@@ -1,5 +1,3 @@
-![](https://github.com/hrvdm/hrvdm/blob/main/images/winter.png?raw=true)
-
 <div align="center">
     <h3> Hey, I'm Harvey.</h3>
     <p><i><b>coffee, frontend, cybersecurity and general shenanigans</b></i></p>
