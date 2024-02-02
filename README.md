@@ -1,7 +1,7 @@
 <div align="center">
     <h3> Hey, I'm Harvey.</h3>
     <p><i><b>coffee, frontend, cybersecurity and general shenanigans</b></i></p>
-    <p>i really like unix rice, sushi rice is also good</p>
+    <p>👻</p>
 </div>
 
 <p align="center">  <img src="https://komarev.com/ghpvc/?username=hrvdm&label=Views&color=252733&style=for-the-badge" alt="hrvdm" /> </p>
