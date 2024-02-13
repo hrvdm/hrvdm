@@ -16,6 +16,6 @@ jobs:
           SHOW_TOTAL: true
           SHOW_TIME: true
           IGNORED_LANGUAGES: Other
-          LANG_COUNT: 3
+          LANG_COUNT: 4
           TIME_RANGE: all_time
           
