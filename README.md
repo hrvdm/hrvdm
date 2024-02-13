@@ -13,6 +13,7 @@ Total Time: 561 hrs 49 mins
 
 TypeScript        300 hrs 36 mins ██████████░░░░░░░░░░░░░░░   39.51 %
 Python            96 hrs 17 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.65 %
+JavaScript        76 hrs 39 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.07 %
 ```
 
 <!--END_SECTION:waka-->
